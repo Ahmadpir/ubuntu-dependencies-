@@ -3,3 +3,5 @@
 
 sudo apt-get update 
 sudo apt-get install autoconf automake make gcc perl zlib1g-dev libbz2-dev liblzma-dev libcurl4-gnutls-dev libssl-dev
+./configure
+make all
